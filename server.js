@@ -6,6 +6,7 @@ const express = require('express');
 
 // converts content in the request into parameter req.body
 // https://www.npmjs.com/package/body-parser
+// added comment for testing
 const bodyParser = require('body-parser');
 
 // create the server
